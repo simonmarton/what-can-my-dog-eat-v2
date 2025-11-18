@@ -1,0 +1,200 @@
+[
+  {
+    "id": "sweeteners",
+    "title": {
+      "en": "Candy, sugar substitutes & sweeteners",
+      "hu": "Cukorkák, cukorpótlók és édesítőszerek"
+    },
+    "description": {
+      "en": "Many sweeteners—especially xylitol—are highly toxic to dogs and can cause rapid drops in blood sugar.",
+      "hu": "Számos édesítőszer, különösen a xilitet tartalmazók, erősen mérgezők a kutyák számára, és gyors vércukorszint-csökkenést okozhatnak."
+    }
+  },
+  {
+    "id": "grapes",
+    "title": {
+      "en": "Grapes & raisins",
+      "hu": "Szőlő és mazsola"
+    },
+    "description": {
+      "en": "Even small amounts can cause severe kidney failure in dogs.",
+      "hu": "Már kis mennyiségben is súlyos vesekárosodást okozhat a kutyáknál."
+    }
+  },
+  {
+    "id": "citrus",
+    "title": {
+      "en": "Citrus fruits",
+      "hu": "Citrusfélék"
+    },
+    "description": {
+      "en": "Citrus fruits and their oils may upset a dog’s stomach and cause discomfort.",
+      "hu": "A citrusfélék és illóolajaik gyomorpanaszokat és irritációt okozhatnak a kutyáknál."
+    }
+  },
+  {
+    "id": "gum",
+    "title": {
+      "en": "Chewing gum",
+      "hu": "Rágógumi"
+    },
+    "description": {
+      "en": "Sugar-free gum often contains xylitol, which is extremely dangerous for dogs.",
+      "hu": "A cukormentes rágógumik gyakran xilitet tartalmaznak, ami rendkívül veszélyes a kutyák számára."
+    }
+  },
+  {
+    "id": "alcohol",
+    "title": {
+      "en": "Alcohol",
+      "hu": "Alkohol"
+    },
+    "description": {
+      "en": "Alcohol can cause vomiting, difficulty breathing, coma, and is potentially fatal to dogs.",
+      "hu": "Az alkohol hányást, légzési nehézséget, kómát okozhat, és életveszélyes a kutyákra."
+    }
+  },
+  {
+    "id": "alliums",
+    "title": {
+      "en": "Onions, garlic & alliums",
+      "hu": "Hagyma, fokhagyma és más alliumok"
+    },
+    "description": {
+      "en": "Allium plants damage red blood cells in dogs and may lead to anemia.",
+      "hu": "Az alliumfélék károsítják a kutyák vörösvértesteit, ami vérszegénységhez vezethet."
+    }
+  },
+  {
+    "id": "chocolate",
+    "title": {
+      "en": "Chocolate & cocoa products",
+      "hu": "Csokoládé és kakaótartalmú termékek"
+    },
+    "description": {
+      "en": "Chocolate contains theobromine, which is toxic to dogs and affects the heart and nervous system.",
+      "hu": "A csokoládé teobromint tartalmaz, amely mérgező a kutyák számára, és a szívet, valamint az idegrendszert károsítja."
+    }
+  },
+  {
+    "id": "soda",
+    "title": {
+      "en": "Soft drinks / soda",
+      "hu": "Üdítők és szénsavas italok"
+    },
+    "description": {
+      "en": "Sugary and caffeinated sodas can upset digestion and overstimulate a dog’s system.",
+      "hu": "Az édes vagy koffeintartalmú üdítők emésztési zavarokat és túlstimuláltságot okozhatnak."
+    }
+  },
+  {
+    "id": "caffeine",
+    "title": {
+      "en": "Coffee & tea",
+      "hu": "Kávé és tea"
+    },
+    "description": {
+      "en": "Caffeine is dangerous for dogs and may cause restlessness, rapid heartbeat, or seizures.",
+      "hu": "A koffein veszélyes a kutyák számára, nyugtalanságot, szapora szívverést vagy rohamokat okozhat."
+    }
+  },
+  {
+    "id": "potato-snacks",
+    "title": {
+      "en": "Potato snacks & fries",
+      "hu": "Burgonyasnackek és sült krumpli"
+    },
+    "description": {
+      "en": "Salty, fatty potato snacks can cause digestive issues and are unhealthy for dogs.",
+      "hu": "A sós, zsíros burgonyasnackek emésztési problémákat okozhatnak, és nem egészségesek a kutyáknak."
+    }
+  },
+  {
+    "id": "mushrooms",
+    "title": {
+      "en": "Mushrooms",
+      "hu": "Gombák"
+    },
+    "description": {
+      "en": "Some wild mushrooms are highly toxic to dogs and can cause severe illness.",
+      "hu": "Egyes vadon termő gombák erősen mérgezők a kutyák számára, és súlyos betegségeket okozhatnak."
+    }
+  },
+  {
+    "id": "sugary-foods",
+    "title": {
+      "en": "Sweet spreads, candies & sugary foods",
+      "hu": "Édes krémek, cukorkák és cukros ételek"
+    },
+    "description": {
+      "en": "High-sugar foods can lead to obesity and dental problems in dogs.",
+      "hu": "A cukros ételek elhízáshoz és fogproblémákhoz vezethetnek a kutyáknál."
+    }
+  },
+  {
+    "id": "fruits",
+    "title": {
+      "en": "Fruits",
+      "hu": "Gyümölcsök"
+    },
+    "description": {
+      "en": "Some fruits are safe, but many contain pits, seeds, or compounds harmful to dogs.",
+      "hu": "Néhány gyümölcs biztonságos, de több magot, csonthéjat vagy kutyákra káros anyagokat tartalmaz."
+    }
+  },
+  {
+    "id": "nuts",
+    "title": {
+      "en": "Nuts & seeds",
+      "hu": "Diófélék és magvak"
+    },
+    "description": {
+      "en": "Certain nuts, such as macadamia, are toxic to dogs and may cause weakness or tremors.",
+      "hu": "Egyes diófélék, például a makadámdió, mérgezőek a kutyák számára, és gyengeséget vagy remegést okozhatnak."
+    }
+  },
+  {
+    "id": "dairy",
+    "title": {
+      "en": "Dairy",
+      "hu": "Tejtermékek"
+    },
+    "description": {
+      "en": "Many dogs are lactose intolerant, and dairy products may cause digestive issues.",
+      "hu": "Sok kutya laktózérzékeny, így a tejtermékek emésztési problémákat okozhatnak."
+    }
+  },
+  {
+    "id": "spicy",
+    "title": {
+      "en": "Peppers & spicy ingredients",
+      "hu": "Paprikák és csípős összetevők"
+    },
+    "description": {
+      "en": "Spicy foods can irritate a dog's stomach and cause discomfort.",
+      "hu": "A csípős ételek irritálhatják a kutya gyomrát és kellemetlenséget okozhatnak."
+    }
+  },
+  {
+    "id": "cooked-dishes",
+    "title": {
+      "en": "Prepared foods / cooked dishes",
+      "hu": "Készételek és főtt ételek"
+    },
+    "description": {
+      "en": "Prepared foods may contain spices, salt, or ingredients unsafe for dogs.",
+      "hu": "A készételek gyakran fűszereket, sót vagy más, kutyák számára nem biztonságos összetevőket tartalmaznak."
+    }
+  },
+  {
+    "id": "yeast",
+    "title": {
+      "en": "Yeast & dough",
+      "hu": "Élesztő és nyers tészta"
+    },
+    "description": {
+      "en": "Rising dough can expand in a dog’s stomach, causing pain and potentially dangerous bloating.",
+      "hu": "A kelő tészta a kutya gyomrában tovább terjedhet, fájdalmat és veszélyes puffadást okozva."
+    }
+  }
+]

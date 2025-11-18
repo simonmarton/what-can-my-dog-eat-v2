@@ -6,7 +6,7 @@
       "en": "licorice",
       "hu": "édesgyökér"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍬"
   },
   {
@@ -16,7 +16,7 @@
       "en": "baked beans",
       "hu": "sült bab"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🫘"
   },
   {
@@ -26,7 +26,7 @@
       "en": "crisps",
       "hu": "chips"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 9,
     "icon": "🍟"
   },
   {
@@ -36,7 +36,7 @@
       "en": "gravy",
       "hu": "mártás"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "⚠️"
   },
   {
@@ -46,7 +46,7 @@
       "en": "caramel",
       "hu": "karamell"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍬"
   },
   {
@@ -56,7 +56,7 @@
       "en": "coke zero",
       "hu": "coke zero"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -66,7 +66,7 @@
       "en": "coke",
       "hu": "koksz"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -76,7 +76,7 @@
       "en": "jelly",
       "hu": "zselé"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍮"
   },
   {
@@ -86,7 +86,7 @@
       "en": "jam",
       "hu": "lekvár"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍓"
   },
   {
@@ -96,7 +96,7 @@
       "en": "poppy seed",
       "hu": "mák"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 13,
     "icon": "⚠️"
   },
   {
@@ -106,7 +106,7 @@
       "en": "marshmallow",
       "hu": "mályvacukor"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🧁"
   },
   {
@@ -116,7 +116,7 @@
       "en": "cotton candy",
       "hu": "vattacukor"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍭"
   },
   {
@@ -126,7 +126,7 @@
       "en": "pomegranate",
       "hu": "gránátalma"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 12,
     "icon": "🍎"
   },
   {
@@ -136,7 +136,7 @@
       "en": "yeast dough",
       "hu": "élesztős tészta"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 17,
     "icon": "⚠️"
   },
   {
@@ -146,7 +146,7 @@
       "en": "nutella",
       "hu": "nutella"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🍫"
   },
   {
@@ -156,7 +156,7 @@
       "en": "coca cola",
       "hu": "Coca Cola"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -166,7 +166,7 @@
       "en": "cola",
       "hu": "cola"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -176,7 +176,7 @@
       "en": "light cola",
       "hu": "light kóla"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -186,7 +186,7 @@
       "en": "pepsi",
       "hu": "pepsi"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -196,7 +196,7 @@
       "en": "sprite",
       "hu": "sprite"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -206,7 +206,7 @@
       "en": "soda",
       "hu": "szóda"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 7,
     "icon": "🥤"
   },
   {
@@ -216,7 +216,7 @@
       "en": "jalapeno",
       "hu": "jalapeno"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 15,
     "icon": "🌶️"
   },
   {
@@ -226,7 +226,7 @@
       "en": "sugar",
       "hu": "cukor"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 11,
     "icon": "🧂"
   },
   {
@@ -236,7 +236,7 @@
       "en": "scallion",
       "hu": "mogyoróhagyma"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -246,7 +246,7 @@
       "en": "chilli pepper",
       "hu": "chilipaprika"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 15,
     "icon": "🌶️"
   },
   {
@@ -256,7 +256,7 @@
       "en": "chili",
       "hu": "chili"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 15,
     "icon": "🌶️"
   },
   {
@@ -266,7 +266,7 @@
       "en": "french fries",
       "hu": "sült krumpli"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 9,
     "icon": "🍟"
   },
   {
@@ -276,7 +276,7 @@
       "en": "chips",
       "hu": "chipek"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 9,
     "icon": "🍟"
   },
   {
@@ -286,7 +286,7 @@
       "en": "fries",
       "hu": "sült krumpli"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 9,
     "icon": "🍟"
   },
   {
@@ -296,7 +296,7 @@
       "en": "potato chips",
       "hu": "burgonya chips"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 9,
     "icon": "🍟"
   },
   {
@@ -306,7 +306,7 @@
       "en": "jagermeister",
       "hu": "jagermeister"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -316,7 +316,7 @@
       "en": "whisky",
       "hu": "whisky"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -326,7 +326,7 @@
       "en": "avocado",
       "hu": "avokádó"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 12,
     "icon": "🥑"
   },
   {
@@ -336,7 +336,7 @@
       "en": "oreo",
       "hu": "oreo"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🍪"
   },
   {
@@ -346,7 +346,7 @@
       "en": "apple cider",
       "hu": "almabor"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 4,
     "icon": "🍺"
   },
   {
@@ -356,7 +356,7 @@
       "en": "pepper",
       "hu": "bors"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 15,
     "icon": "🫑"
   },
   {
@@ -366,7 +366,7 @@
       "en": "leek",
       "hu": "póréhagyma"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -376,7 +376,7 @@
       "en": "brisket",
       "hu": "szegyszegy"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🥩"
   },
   {
@@ -386,7 +386,7 @@
       "en": "bbq",
       "hu": "bbq"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🍖"
   },
   {
@@ -396,7 +396,7 @@
       "en": "mustard",
       "hu": "mustár"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🟨"
   },
   {
@@ -436,7 +436,7 @@
       "en": "lemon",
       "hu": "citrom"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 2,
     "icon": "🍋"
   },
   {
@@ -446,7 +446,7 @@
       "en": "lime",
       "hu": "lime"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 2,
     "icon": "🍋"
   },
   {
@@ -456,7 +456,7 @@
       "en": "garlic clove",
       "hu": "fokhagymagerezd"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 5,
     "icon": "🧄"
   },
   {
@@ -466,7 +466,7 @@
       "en": "rhubarb",
       "hu": "rebarbara"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 12,
     "icon": "⚠️"
   },
   {
@@ -476,7 +476,7 @@
       "en": "wildmushroom",
       "hu": "vadgomba"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 10,
     "icon": "🍄"
   },
   {
@@ -486,7 +486,7 @@
       "en": "wild mushrooms",
       "hu": "erdei gombák"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 10,
     "icon": "🍄"
   },
   {
@@ -496,7 +496,7 @@
       "en": "grape",
       "hu": "szőlő"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 1,
     "icon": "🍇"
   },
   {
@@ -506,7 +506,7 @@
       "en": "mushroom",
       "hu": "gomba"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 10,
     "icon": "🍄"
   },
   {
@@ -516,7 +516,7 @@
       "en": "raisin",
       "hu": "mazsola"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 1,
     "icon": "🍇"
   },
   {
@@ -526,7 +526,7 @@
       "en": "macadamia nut",
       "hu": "makadámiadió"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 13,
     "icon": "🌰"
   },
   {
@@ -536,7 +536,7 @@
       "en": "coffee",
       "hu": "kávé"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 8,
     "icon": "☕"
   },
   {
@@ -546,7 +546,7 @@
       "en": "cappuccino",
       "hu": "cappuccino"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 8,
     "icon": "☕"
   },
   {
@@ -556,7 +556,7 @@
       "en": "decaf coffee",
       "hu": "koffeinmentes kávé"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 8,
     "icon": "☕"
   },
   {
@@ -566,7 +566,7 @@
       "en": "latte",
       "hu": "latte"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 8,
     "icon": "☕"
   },
   {
@@ -576,7 +576,7 @@
       "en": "tea",
       "hu": "tea"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 8,
     "icon": "🍵"
   },
   {
@@ -586,7 +586,7 @@
       "en": "nutmeg",
       "hu": "szerecsendió"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "⚠️"
   },
   {
@@ -596,7 +596,7 @@
       "en": "yeast",
       "hu": "élesztő"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 17,
     "icon": "⚠️"
   },
   {
@@ -606,7 +606,7 @@
       "en": "ice cream",
       "hu": "jégkrém"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 14,
     "icon": "🍨"
   },
   {
@@ -616,7 +616,7 @@
       "en": "garlic powder",
       "hu": "fokhagymapor"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 5,
     "icon": "🧄"
   },
   {
@@ -1686,7 +1686,7 @@
       "en": "chives",
       "hu": "metélőhagyma"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 5,
     "icon": "🌿"
   },
   {
@@ -1696,7 +1696,7 @@
       "en": "candy",
       "hu": "cukorka"
     },
-    "descriptionDictIdx": 3,
+    "descriptionDictIdx": 0,
     "icon": "🍬"
   },
   {
@@ -1706,7 +1706,7 @@
       "en": "xylitol",
       "hu": "xilit"
     },
-    "descriptionDictIdx": 4,
+    "descriptionDictIdx": 0,
     "icon": "⚠️"
   },
   {
@@ -1736,7 +1736,7 @@
       "en": "grapefruit",
       "hu": "grapefruit"
     },
-    "descriptionDictIdx": 6,
+    "descriptionDictIdx": 2,
     "icon": "🍊"
   },
   {
@@ -1746,7 +1746,7 @@
       "en": "chewing gum",
       "hu": "rágógumi"
     },
-    "descriptionDictIdx": 7,
+    "descriptionDictIdx": 3,
     "icon": "🍬"
   },
   {
@@ -1756,7 +1756,7 @@
       "en": "alcohol",
       "hu": "alkohol"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1766,7 +1766,7 @@
       "en": "absinthe",
       "hu": "abszint"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1776,7 +1776,7 @@
       "en": "baileys",
       "hu": "baileys"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1786,7 +1786,7 @@
       "en": "beer",
       "hu": "sör"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🍺"
   },
   {
@@ -1796,7 +1796,7 @@
       "en": "brandy",
       "hu": "brandy"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1806,7 +1806,7 @@
       "en": "champagne",
       "hu": "pezsgő"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🍾"
   },
   {
@@ -1816,7 +1816,7 @@
       "en": "cider",
       "hu": "almabor"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🍺"
   },
   {
@@ -1826,7 +1826,7 @@
       "en": "gin",
       "hu": "gin"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🍸"
   },
   {
@@ -1836,7 +1836,7 @@
       "en": "jäger meister",
       "hu": "jäger meister"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1846,7 +1846,7 @@
       "en": "liqueur",
       "hu": "likőr"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1856,7 +1856,7 @@
       "en": "rum",
       "hu": "rum"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1866,7 +1866,7 @@
       "en": "snaps",
       "hu": "snaps"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1876,7 +1876,7 @@
       "en": "tequila",
       "hu": "tequila"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1886,7 +1886,7 @@
       "en": "vodka",
       "hu": "vodka"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1896,7 +1896,7 @@
       "en": "whiskey",
       "hu": "whisky"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🥃"
   },
   {
@@ -1906,7 +1906,7 @@
       "en": "wine",
       "hu": "bor"
     },
-    "descriptionDictIdx": 8,
+    "descriptionDictIdx": 4,
     "icon": "🍷"
   },
   {
@@ -1916,7 +1916,7 @@
       "en": "onion",
       "hu": "hagyma"
     },
-    "descriptionDictIdx": 9,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -1926,7 +1926,7 @@
       "en": "garlic",
       "hu": "fokhagyma"
     },
-    "descriptionDictIdx": 9,
+    "descriptionDictIdx": 5,
     "icon": "🧄"
   },
   {
@@ -1936,7 +1936,7 @@
       "en": "green onion",
       "hu": "zöldhagyma"
     },
-    "descriptionDictIdx": 9,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -1946,7 +1946,7 @@
       "en": "shallot",
       "hu": "mogyoróhagyma"
     },
-    "descriptionDictIdx": 9,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -1956,7 +1956,7 @@
       "en": "spring onion",
       "hu": "újhagyma"
     },
-    "descriptionDictIdx": 9,
+    "descriptionDictIdx": 5,
     "icon": "🧅"
   },
   {
@@ -1966,7 +1966,7 @@
       "en": "chocolate",
       "hu": "csokoládé"
     },
-    "descriptionDictIdx": 10,
+    "descriptionDictIdx": 6,
     "icon": "🍫"
   },
   {
@@ -1976,7 +1976,7 @@
       "en": "bittersweet chocolate",
       "hu": "keserédes csokoládé"
     },
-    "descriptionDictIdx": 10,
+    "descriptionDictIdx": 6,
     "icon": "🍫"
   },
   {
@@ -1986,7 +1986,7 @@
       "en": "dark chocolate",
       "hu": "étcsokoládé"
     },
-    "descriptionDictIdx": 10,
+    "descriptionDictIdx": 6,
     "icon": "🍫"
   },
   {
@@ -1996,7 +1996,7 @@
       "en": "milk chocolate",
       "hu": "tejcsokoládé"
     },
-    "descriptionDictIdx": 10,
+    "descriptionDictIdx": 6,
     "icon": "🍫"
   },
   {
@@ -2006,7 +2006,7 @@
       "en": "white chocolate",
       "hu": "fehér csokoládé"
     },
-    "descriptionDictIdx": 10,
+    "descriptionDictIdx": 6,
     "icon": "🍫"
   },
   {
@@ -2076,7 +2076,7 @@
       "en": "fish",
       "hu": "hal"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🐟"
   },
   {
@@ -2086,7 +2086,7 @@
       "en": "pizza",
       "hu": "pizza"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🍕"
   },
   {
@@ -2236,7 +2236,7 @@
       "en": "sausage",
       "hu": "kolbász"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 16,
     "icon": "🌭"
   },
   {
@@ -2266,7 +2266,7 @@
       "en": "milk",
       "hu": "tej"
     },
-    "descriptionDictIdx": -1,
+    "descriptionDictIdx": 14,
     "icon": "🥛"
   },
   {
