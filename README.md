@@ -1,4 +1,6 @@
-# Fresh project
+# What can my dog eat v2
+
+## Fresh project
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
 Started" guide here: https://fresh.deno.dev/docs/getting-started
@@ -18,7 +20,10 @@ This will watch the project directory and restart as necessary.
 
 ### TODO
 
-- `/en/food/food-id` url pattern
 - rename category to risk
 - rename description to category
+- search, result page
+- fuzzy search
 - all foods should have a category
+- add footer (stats, github, random food)
+- 404 page

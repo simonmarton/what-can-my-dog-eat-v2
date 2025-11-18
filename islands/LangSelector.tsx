@@ -13,9 +13,10 @@ export default ({ lang }: LangSelectorProps) => (
         class='sr-only peer'
         checked={lang === 'hu'}
         onChange={() => {
-          const path = location.pathname.substring(4);
+          const path = location.pathname.substring(3);
           const newLang = lang === 'en' ? 'hu' : 'en';
-          globalThis.location.href = `/${newLang}/${path}`;
+
+          globalThis.location.href = `/${newLang}${path}`;
         }}
       />
       <div class='w-11 h-6 bg-gray-300 peer-focus:outline-none rounded-full peer _peer-checked:bg-green-600 transition'>

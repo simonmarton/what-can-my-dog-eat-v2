@@ -14,7 +14,7 @@ export default define.page((props) => {
         {harmful.map((food) => (
           <a
             class='relative bg-gray-100 rounded-xl p-6 shadow hover:shadow-md transition'
-            href={`${lang}/${food.id}`}
+            href={`${lang}/food/${food.id}`}
           >
             <div class='absolute top-0 left-0 h-full w-1.5 bg-red-500 rounded-l-xl' />
             <div class='flex flex-col items-center text-center'>

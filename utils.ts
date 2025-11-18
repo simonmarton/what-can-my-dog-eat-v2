@@ -20,13 +20,13 @@ export const translator =
 export const capitalize = ([l, ...str]: string) =>
   l.toUpperCase() + str.join('');
 
-export const getCategoryColor = (category: Category) => {
+export const getCategoryBgColor = (category: Category) => {
   switch (category) {
     case 'harmful':
-      return 'red-500';
+      return 'bg-red-500';
     case 'moderate':
-      return 'amber-500';
+      return 'bg-amber-500';
     case 'safe':
-      return 'green-500';
+      return 'bg-green-500';
   }
 };
