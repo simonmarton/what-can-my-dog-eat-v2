@@ -1,14 +1,9 @@
-type DictEntry = {
-  en: string;
-  hu: string;
-};
+export const availableLangs = ['en', 'hu'] as const;
+export type Lang = (typeof availableLangs)[number];
 
-export type Dict = {
-  descriptions: DictEntry[];
-  names: DictEntry[];
-};
+type DictEntry = Record<Lang, string>;
 
-export type Category = 'harmful' | 'moderate' | 'good';
+export type Category = 'harmful' | 'moderate' | 'safe';
 
 export type Food = {
   id: string;
@@ -17,13 +12,18 @@ export type Food = {
   descriptionDictIdx: number;
   icon: string;
 };
-export type Foods = Food[];
 
-export type SearchResult = {
-  id: string;
-  category: Category;
-  name: string; // meh
+export type FoodDescription = {
+  title: DictEntry;
+  text: DictEntry;
 };
 
-export const availableLangs = ['en', 'hu'] as const;
-export type Lang = (typeof availableLangs)[number];
+export type FoodDetails = Omit<Food, 'descriptionDictIdx'> & {
+  description?: FoodDescription;
+};
+
+// export type SearchResult = {
+//   id: string;
+//   category: Category;
+//   name: string; // meh
+// };

@@ -17,6 +17,22 @@ export default {
     en: 'Common dangerous foods for dogs',
     hu: 'Gyakori veszélyes ételek kutyáknak',
   },
+  harmful: {
+    en: 'Harmful',
+    hu: 'Ártalmas',
+  },
+  moderate: {
+    en: 'Moderate',
+    hu: 'Mérsékelt',
+  },
+  safe: {
+    en: 'Safe',
+    hu: 'Biztonságos',
+  },
+  foodCategory: {
+    en: 'Food Category',
+    hu: 'Ételkategória',
+  },
 } as {
   [key: string]: {
     [key in Lang]: string;

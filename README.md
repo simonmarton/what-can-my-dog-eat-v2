@@ -15,3 +15,10 @@ deno task dev
 ```
 
 This will watch the project directory and restart as necessary.
+
+### TODO
+
+- `/en/food/food-id` url pattern
+- rename category to risk
+- rename description to category
+- all foods should have a category

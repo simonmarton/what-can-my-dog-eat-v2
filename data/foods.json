@@ -751,7 +751,7 @@
   },
   {
     "id": "venison",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "venison",
       "hu": "szarvas"
@@ -761,7 +761,7 @@
   },
   {
     "id": "steak",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "steak",
       "hu": "steak"
@@ -771,7 +771,7 @@
   },
   {
     "id": "lentil",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "lentil",
       "hu": "lencse"
@@ -781,7 +781,7 @@
   },
   {
     "id": "soy-milk",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "soy milk",
       "hu": "szójatej"
@@ -791,7 +791,7 @@
   },
   {
     "id": "capsicum",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "capsicum",
       "hu": "paprika"
@@ -801,7 +801,7 @@
   },
   {
     "id": "papaya",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "papaya",
       "hu": "papaya"
@@ -811,7 +811,7 @@
   },
   {
     "id": "guava",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "guava",
       "hu": "guava"
@@ -821,7 +821,7 @@
   },
   {
     "id": "water",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "water",
       "hu": "víz"
@@ -831,7 +831,7 @@
   },
   {
     "id": "dog-food",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "dog food",
       "hu": "kutyaeledel"
@@ -841,7 +841,7 @@
   },
   {
     "id": "soya",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "soya",
       "hu": "szója"
@@ -851,7 +851,7 @@
   },
   {
     "id": "kale",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "kale",
       "hu": "kelkáposzta"
@@ -871,7 +871,7 @@
   },
   {
     "id": "buckwheat",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "buckwheat",
       "hu": "hajdina"
@@ -881,7 +881,7 @@
   },
   {
     "id": "lamb",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "lamb",
       "hu": "bárány"
@@ -891,7 +891,7 @@
   },
   {
     "id": "vinegar",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "vinegar",
       "hu": "ecet"
@@ -901,7 +901,7 @@
   },
   {
     "id": "chickpea",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "chickpea",
       "hu": "csicseriborsó"
@@ -911,7 +911,7 @@
   },
   {
     "id": "fig",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "fig",
       "hu": "fig"
@@ -921,7 +921,7 @@
   },
   {
     "id": "parsnip",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "parsnip",
       "hu": "paszternák"
@@ -931,7 +931,7 @@
   },
   {
     "id": "eggplant",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "eggplant",
       "hu": "padlizsán"
@@ -941,7 +941,7 @@
   },
   {
     "id": "black-beans",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "black beans",
       "hu": "fekete bab"
@@ -951,7 +951,7 @@
   },
   {
     "id": "bean",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "bean",
       "hu": "bab"
@@ -961,7 +961,7 @@
   },
   {
     "id": "ginger",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "ginger",
       "hu": "gyömbér"
@@ -971,7 +971,7 @@
   },
   {
     "id": "beet",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "beet",
       "hu": "cékla"
@@ -981,7 +981,7 @@
   },
   {
     "id": "artichoke",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "artichoke",
       "hu": "articsóka"
@@ -991,7 +991,7 @@
   },
   {
     "id": "iceberg-lettuce",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "iceberg lettuce",
       "hu": "jégsaláta"
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "olive",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "olive",
       "hu": "olívabogyó"
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "pretzel",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pretzel",
       "hu": "perec"
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "bacon",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "bacon",
       "hu": "szalonna"
@@ -1031,7 +1031,7 @@
   },
   {
     "id": "pasta",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pasta",
       "hu": "tészta"
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "spaghetti",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "spaghetti",
       "hu": "spagetti"
@@ -1051,7 +1051,7 @@
   },
   {
     "id": "grain",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "grain",
       "hu": "gabona"
@@ -1061,7 +1061,7 @@
   },
   {
     "id": "wheat",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "wheat",
       "hu": "búza"
@@ -1071,7 +1071,7 @@
   },
   {
     "id": "quinoa",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "quinoa",
       "hu": "quinoa"
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "peanut",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "peanut",
       "hu": "mogyoró"
@@ -1091,7 +1091,7 @@
   },
   {
     "id": "ham",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "ham",
       "hu": "sonka"
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "turkey",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "turkey",
       "hu": "pulyka"
@@ -1111,7 +1111,7 @@
   },
   {
     "id": "cinnamon",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cinnamon",
       "hu": "fahéj"
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "beef",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "beef",
       "hu": "marhahús"
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "pork",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pork",
       "hu": "sertéshús"
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "chicken",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "chicken",
       "hu": "csirke"
@@ -1151,7 +1151,7 @@
   },
   {
     "id": "oatmeal",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "oatmeal",
       "hu": "zabpehely"
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "bread",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "bread",
       "hu": "kenyér"
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "brown-bread",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "brown bread",
       "hu": "barna kenyér"
@@ -1181,7 +1181,7 @@
   },
   {
     "id": "sourdough",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "sourdough",
       "hu": "kovász"
@@ -1191,7 +1191,7 @@
   },
   {
     "id": "white-bread",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "white bread",
       "hu": "fehér kenyér"
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "whole-grain-bread",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "whole grain bread",
       "hu": "teljes kiőrlésű kenyér"
@@ -1211,7 +1211,7 @@
   },
   {
     "id": "popcorn",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "popcorn",
       "hu": "pattogatott kukorica"
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "egg",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "egg",
       "hu": "tojás"
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "nectarine",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "nectarine",
       "hu": "nektarin"
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "tangerine",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "tangerine",
       "hu": "mandarin"
@@ -1251,7 +1251,7 @@
   },
   {
     "id": "plum",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "plum",
       "hu": "szilva"
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "honeydew",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "honeydew",
       "hu": "mézharmat dinnye"
@@ -1271,7 +1271,7 @@
   },
   {
     "id": "date",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "date",
       "hu": "datolya"
@@ -1281,7 +1281,7 @@
   },
   {
     "id": "medjool",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "medjool",
       "hu": "madzshúl"
@@ -1291,7 +1291,7 @@
   },
   {
     "id": "kiwi",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "kiwi",
       "hu": "kiwi"
@@ -1301,7 +1301,7 @@
   },
   {
     "id": "blackberry",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "blackberry",
       "hu": "szeder"
@@ -1311,7 +1311,7 @@
   },
   {
     "id": "potato",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "potato",
       "hu": "burgonya"
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "zucchini",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "zucchini",
       "hu": "cukkini"
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "sweet-potato",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "sweet potato",
       "hu": "édesburgonya"
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "pumpkin",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pumpkin",
       "hu": "sütőtök"
@@ -1351,7 +1351,7 @@
   },
   {
     "id": "pea",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pea",
       "hu": "borsó"
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "lettuce",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "lettuce",
       "hu": "saláta"
@@ -1371,7 +1371,7 @@
   },
   {
     "id": "cucumber",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cucumber",
       "hu": "uborka"
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "celery",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "celery",
       "hu": "zeller"
@@ -1391,7 +1391,7 @@
   },
   {
     "id": "carrot",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "carrot",
       "hu": "sárgarépa"
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "brussels-sprouts",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "brussels sprouts",
       "hu": "kelbimbó"
@@ -1411,7 +1411,7 @@
   },
   {
     "id": "green-bell-pepper",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "green bell pepper",
       "hu": "zöldpaprika"
@@ -1421,7 +1421,7 @@
   },
   {
     "id": "orange-bell-pepper",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "orange bell pepper",
       "hu": "narancssárga paprika"
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "red-bell-pepper",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "red bell pepper",
       "hu": "piros paprika"
@@ -1441,7 +1441,7 @@
   },
   {
     "id": "bell-pepper",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "bell pepper",
       "hu": "paprika"
@@ -1451,7 +1451,7 @@
   },
   {
     "id": "asparagus",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "asparagus",
       "hu": "spárga"
@@ -1461,7 +1461,7 @@
   },
   {
     "id": "cabbage",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cabbage",
       "hu": "káposzta"
@@ -1471,7 +1471,7 @@
   },
   {
     "id": "cauliflower",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cauliflower",
       "hu": "karfiol"
@@ -1481,7 +1481,7 @@
   },
   {
     "id": "broccoli",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "broccoli",
       "hu": "brokkoli"
@@ -1491,7 +1491,7 @@
   },
   {
     "id": "corn",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "corn",
       "hu": "kukorica"
@@ -1501,7 +1501,7 @@
   },
   {
     "id": "watermelon",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "watermelon",
       "hu": "görögdinnye"
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "pineapple",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pineapple",
       "hu": "ananász"
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "pear",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "pear",
       "hu": "körte"
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "orange",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "orange",
       "hu": "narancs"
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "mango",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "mango",
       "hu": "mangó"
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "cranberry",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cranberry",
       "hu": "áfonya"
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "cantaloupe",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "cantaloupe",
       "hu": "sárgadinnye"
@@ -1571,7 +1571,7 @@
   },
   {
     "id": "blueberry",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "blueberry",
       "hu": "áfonya"
@@ -1581,7 +1581,7 @@
   },
   {
     "id": "banana",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "banana",
       "hu": "banán"
@@ -1591,7 +1591,7 @@
   },
   {
     "id": "apricot",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "apricot",
       "hu": "sárgabarack"
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "apple",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "apple",
       "hu": "alma"
@@ -1711,7 +1711,7 @@
   },
   {
     "id": "rice",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "rice",
       "hu": "rizs"
@@ -1721,7 +1721,7 @@
   },
   {
     "id": "brown-rice",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "brown rice",
       "hu": "barna rizs"
@@ -2051,7 +2051,7 @@
   },
   {
     "id": "tomato",
-    "category": "good",
+    "category": "moderate",
     "name": {
       "en": "tomato",
       "hu": "paradicsom"
@@ -2061,7 +2061,7 @@
   },
   {
     "id": "tomatoe",
-    "category": "good",
+    "category": "moderate",
     "name": {
       "en": "tomatoe",
       "hu": "paradicsom"
@@ -2091,7 +2091,7 @@
   },
   {
     "id": "salmon",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "salmon",
       "hu": "lazac"
@@ -2101,17 +2101,17 @@
   },
   {
     "id": "anchovies",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "anchovies",
-      "hu": "szardellák"
+      "hu": "szardella"
     },
     "descriptionDictIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "herring",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "herring",
       "hu": "hering"
@@ -2121,7 +2121,7 @@
   },
   {
     "id": "mackerel",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "mackerel",
       "hu": "makréla"
@@ -2131,7 +2131,7 @@
   },
   {
     "id": "sardines",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "sardines",
       "hu": "szardínia"
@@ -2141,7 +2141,7 @@
   },
   {
     "id": "shrimp",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "shrimp",
       "hu": "garnélarák"
@@ -2151,7 +2151,7 @@
   },
   {
     "id": "smelts",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "smelts",
       "hu": "csempék"
@@ -2161,7 +2161,7 @@
   },
   {
     "id": "tuna",
-    "category": "good",
+    "category": "safe",
     "name": {
       "en": "tuna",
       "hu": "tonhal"

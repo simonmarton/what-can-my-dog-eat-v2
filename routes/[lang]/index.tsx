@@ -16,8 +16,7 @@ export default define.page((props) => {
             class='relative bg-gray-100 rounded-xl p-6 shadow hover:shadow-md transition'
             href={`${lang}/${food.id}`}
           >
-            <div class='absolute top-0 left-0 h-full w-1.5 bg-red-500 rounded-l-xl'>
-            </div>
+            <div class='absolute top-0 left-0 h-full w-1.5 bg-red-500 rounded-l-xl' />
             <div class='flex flex-col items-center text-center'>
               <div class='text-5xl mb-3'>{food.icon || `🤷‍♂️`}</div>
               <p class='text-lg font-medium'>{food.name[lang]}</p>

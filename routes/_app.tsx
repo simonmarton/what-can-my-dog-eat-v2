@@ -14,7 +14,12 @@ export default define.page(function App({ Component, state }) {
       <body class='sm:flex justify-center bg-gray-50 text-gray-900 p-5'>
         <div class='sm:w-3xl'>
           <header class='w-full flex items-center justify-between _sm:px-8 py-6'>
-            <h1 class='text-3xl font-black tracking-tight'>{t`title`}</h1>
+            <a
+              href={`/${state.lang}`}
+              class='text-3xl font-black tracking-tight hover:underline'
+            >
+              {t`title`}
+            </a>
             <LangSelector lang={state.lang} />
           </header>
 
