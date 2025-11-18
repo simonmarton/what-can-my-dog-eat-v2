@@ -20,8 +20,6 @@ This will watch the project directory and restart as necessary.
 
 ### TODO
 
-- rename category to risk
-- rename description to category
 - search, result page
 - fuzzy search
 - all foods should have a category

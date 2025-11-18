@@ -1,9 +1,9 @@
-import type { Food, FoodDescription, FoodDetails } from '../models.ts';
+import type { Food, FoodCategory, FoodDetails } from '../models.ts';
 import foodData from '../data/foods.json' with { type: 'json' };
-import descriptionData from '../data/descriptions.json' with { type: 'json' };
+import categoryData from '../data/categories.json' with { type: 'json' };
 
 const foods = foodData as Food[];
-const descriptions = descriptionData as FoodDescription[];
+const categories = categoryData as FoodCategory[];
 
 export const getTopHarmfulFoods = (): Food[] => {
   const danger = [
@@ -30,6 +30,6 @@ export const getFoodDetails = (foodId: string): FoodDetails | null => {
 
   return {
     ...food,
-    description: descriptions[food.descriptionDictIdx],
+    category: categories[food.categoryIdx],
   };
 };

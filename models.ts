@@ -3,23 +3,23 @@ export type Lang = (typeof availableLangs)[number];
 
 type DictEntry = Record<Lang, string>;
 
-export type Category = 'harmful' | 'moderate' | 'safe';
+export type Risk = 'harmful' | 'moderate' | 'safe';
 
 export type Food = {
   id: string;
-  category: Category;
+  risk: Risk;
   name: DictEntry;
-  descriptionDictIdx: number;
+  categoryIdx: number;
   icon: string;
 };
 
-export type FoodDescription = {
+export type FoodCategory = {
   title: DictEntry;
   text: DictEntry;
 };
 
-export type FoodDetails = Omit<Food, 'descriptionDictIdx'> & {
-  description?: FoodDescription;
+export type FoodDetails = Omit<Food, 'categoryIdx'> & {
+  category?: FoodCategory;
 };
 
 // export type SearchResult = {

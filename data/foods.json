@@ -1,2282 +1,2282 @@
 [
   {
     "id": "licorice",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "licorice",
       "hu": "édesgyökér"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍬"
   },
   {
     "id": "baked-beans",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "baked beans",
       "hu": "sült bab"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🫘"
   },
   {
     "id": "crisps",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "crisps",
       "hu": "chips"
     },
-    "descriptionDictIdx": 9,
+    "categoryIdx": 9,
     "icon": "🍟"
   },
   {
     "id": "gravy",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "gravy",
       "hu": "mártás"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "⚠️"
   },
   {
     "id": "caramel",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "caramel",
       "hu": "karamell"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍬"
   },
   {
     "id": "coke-zero",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "coke zero",
       "hu": "coke zero"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "coke",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "coke",
       "hu": "koksz"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "jelly",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "jelly",
       "hu": "zselé"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍮"
   },
   {
     "id": "jam",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "jam",
       "hu": "lekvár"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍓"
   },
   {
     "id": "poppy-seed",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "poppy seed",
       "hu": "mák"
     },
-    "descriptionDictIdx": 13,
+    "categoryIdx": 13,
     "icon": "⚠️"
   },
   {
     "id": "marshmallow",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "marshmallow",
       "hu": "mályvacukor"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🧁"
   },
   {
     "id": "cotton-candy",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "cotton candy",
       "hu": "vattacukor"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍭"
   },
   {
     "id": "pomegranate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "pomegranate",
       "hu": "gránátalma"
     },
-    "descriptionDictIdx": 12,
+    "categoryIdx": 12,
     "icon": "🍎"
   },
   {
     "id": "yeast-dough",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "yeast dough",
       "hu": "élesztős tészta"
     },
-    "descriptionDictIdx": 17,
+    "categoryIdx": 17,
     "icon": "⚠️"
   },
   {
     "id": "nutella",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "nutella",
       "hu": "nutella"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🍫"
   },
   {
     "id": "coca-cola",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "coca cola",
       "hu": "Coca Cola"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "cola",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "cola",
       "hu": "cola"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "light-cola",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "light cola",
       "hu": "light kóla"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "pepsi",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "pepsi",
       "hu": "pepsi"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "sprite",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "sprite",
       "hu": "sprite"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "soda",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "soda",
       "hu": "szóda"
     },
-    "descriptionDictIdx": 7,
+    "categoryIdx": 7,
     "icon": "🥤"
   },
   {
     "id": "jalapeno",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "jalapeno",
       "hu": "jalapeno"
     },
-    "descriptionDictIdx": 15,
+    "categoryIdx": 15,
     "icon": "🌶️"
   },
   {
     "id": "sugar",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "sugar",
       "hu": "cukor"
     },
-    "descriptionDictIdx": 11,
+    "categoryIdx": 11,
     "icon": "🧂"
   },
   {
     "id": "scallion",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "scallion",
       "hu": "mogyoróhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "chilli-pepper",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chilli pepper",
       "hu": "chilipaprika"
     },
-    "descriptionDictIdx": 15,
+    "categoryIdx": 15,
     "icon": "🌶️"
   },
   {
     "id": "chili",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chili",
       "hu": "chili"
     },
-    "descriptionDictIdx": 15,
+    "categoryIdx": 15,
     "icon": "🌶️"
   },
   {
     "id": "french-fries",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "french fries",
       "hu": "sült krumpli"
     },
-    "descriptionDictIdx": 9,
+    "categoryIdx": 9,
     "icon": "🍟"
   },
   {
     "id": "chips",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chips",
       "hu": "chipek"
     },
-    "descriptionDictIdx": 9,
+    "categoryIdx": 9,
     "icon": "🍟"
   },
   {
     "id": "fries",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "fries",
       "hu": "sült krumpli"
     },
-    "descriptionDictIdx": 9,
+    "categoryIdx": 9,
     "icon": "🍟"
   },
   {
     "id": "potato-chips",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "potato chips",
       "hu": "burgonya chips"
     },
-    "descriptionDictIdx": 9,
+    "categoryIdx": 9,
     "icon": "🍟"
   },
   {
     "id": "jagermeister",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "jagermeister",
       "hu": "jagermeister"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "whisky",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "whisky",
       "hu": "whisky"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "avocado",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "avocado",
       "hu": "avokádó"
     },
-    "descriptionDictIdx": 12,
+    "categoryIdx": 12,
     "icon": "🥑"
   },
   {
     "id": "oreo",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "oreo",
       "hu": "oreo"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🍪"
   },
   {
     "id": "apple-cider",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "apple cider",
       "hu": "almabor"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍺"
   },
   {
     "id": "pepper",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "pepper",
       "hu": "bors"
     },
-    "descriptionDictIdx": 15,
+    "categoryIdx": 15,
     "icon": "🫑"
   },
   {
     "id": "leek",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "leek",
       "hu": "póréhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "brisket",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "brisket",
       "hu": "szegyszegy"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🥩"
   },
   {
     "id": "bbq",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "bbq",
       "hu": "bbq"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🍖"
   },
   {
     "id": "mustard",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "mustard",
       "hu": "mustár"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🟨"
   },
   {
     "id": "pickles",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "pickles",
       "hu": "savanyúságok"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥒"
   },
   {
     "id": "squash",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "squash",
       "hu": "squash"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🎃"
   },
   {
     "id": "pistachio",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "pistachio",
       "hu": "pisztácia"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "lemon",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "lemon",
       "hu": "citrom"
     },
-    "descriptionDictIdx": 2,
+    "categoryIdx": 2,
     "icon": "🍋"
   },
   {
     "id": "lime",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "lime",
       "hu": "lime"
     },
-    "descriptionDictIdx": 2,
+    "categoryIdx": 2,
     "icon": "🍋"
   },
   {
     "id": "garlic-clove",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "garlic clove",
       "hu": "fokhagymagerezd"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧄"
   },
   {
     "id": "rhubarb",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "rhubarb",
       "hu": "rebarbara"
     },
-    "descriptionDictIdx": 12,
+    "categoryIdx": 12,
     "icon": "⚠️"
   },
   {
     "id": "wildmushroom",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "wildmushroom",
       "hu": "vadgomba"
     },
-    "descriptionDictIdx": 10,
+    "categoryIdx": 10,
     "icon": "🍄"
   },
   {
     "id": "wild-mushrooms",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "wild mushrooms",
       "hu": "erdei gombák"
     },
-    "descriptionDictIdx": 10,
+    "categoryIdx": 10,
     "icon": "🍄"
   },
   {
     "id": "grape",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "grape",
       "hu": "szőlő"
     },
-    "descriptionDictIdx": 1,
+    "categoryIdx": 1,
     "icon": "🍇"
   },
   {
     "id": "mushroom",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "mushroom",
       "hu": "gomba"
     },
-    "descriptionDictIdx": 10,
+    "categoryIdx": 10,
     "icon": "🍄"
   },
   {
     "id": "raisin",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "raisin",
       "hu": "mazsola"
     },
-    "descriptionDictIdx": 1,
+    "categoryIdx": 1,
     "icon": "🍇"
   },
   {
     "id": "macadamia-nut",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "macadamia nut",
       "hu": "makadámiadió"
     },
-    "descriptionDictIdx": 13,
+    "categoryIdx": 13,
     "icon": "🌰"
   },
   {
     "id": "coffee",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "coffee",
       "hu": "kávé"
     },
-    "descriptionDictIdx": 8,
+    "categoryIdx": 8,
     "icon": "☕"
   },
   {
     "id": "cappuccino",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "cappuccino",
       "hu": "cappuccino"
     },
-    "descriptionDictIdx": 8,
+    "categoryIdx": 8,
     "icon": "☕"
   },
   {
     "id": "decaf-coffee",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "decaf coffee",
       "hu": "koffeinmentes kávé"
     },
-    "descriptionDictIdx": 8,
+    "categoryIdx": 8,
     "icon": "☕"
   },
   {
     "id": "latte",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "latte",
       "hu": "latte"
     },
-    "descriptionDictIdx": 8,
+    "categoryIdx": 8,
     "icon": "☕"
   },
   {
     "id": "tea",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "tea",
       "hu": "tea"
     },
-    "descriptionDictIdx": 8,
+    "categoryIdx": 8,
     "icon": "🍵"
   },
   {
     "id": "nutmeg",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "nutmeg",
       "hu": "szerecsendió"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "⚠️"
   },
   {
     "id": "yeast",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "yeast",
       "hu": "élesztő"
     },
-    "descriptionDictIdx": 17,
+    "categoryIdx": 17,
     "icon": "⚠️"
   },
   {
     "id": "ice-cream",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "ice cream",
       "hu": "jégkrém"
     },
-    "descriptionDictIdx": 14,
+    "categoryIdx": 14,
     "icon": "🍨"
   },
   {
     "id": "garlic-powder",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "garlic powder",
       "hu": "fokhagymapor"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧄"
   },
   {
     "id": "mozzarella",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "mozzarella",
       "hu": "mozzarella"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🧀"
   },
   {
     "id": "tofu",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "tofu",
       "hu": "tofu"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍱"
   },
   {
     "id": "salad",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "salad",
       "hu": "saláta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥗"
   },
   {
     "id": "corn-flakes",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "corn flakes",
       "hu": "kukoricapehely"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥣"
   },
   {
     "id": "cherry",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cherry",
       "hu": "cseresznye"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍒"
   },
   {
     "id": "flour",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "flour",
       "hu": "liszt"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌾"
   },
   {
     "id": "butter",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "butter",
       "hu": "vaj"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🧈"
   },
   {
     "id": "honey",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "honey",
       "hu": "méz"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍯"
   },
   {
     "id": "almond",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "almond",
       "hu": "mandula"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "cashew",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cashew",
       "hu": "kesudió"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "salt",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "salt",
       "hu": "só"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🧂"
   },
   {
     "id": "coconut",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "coconut",
       "hu": "kókuszdió"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥥"
   },
   {
     "id": "raspberry",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "raspberry",
       "hu": "málna"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫐"
   },
   {
     "id": "venison",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "venison",
       "hu": "szarvas"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥩"
   },
   {
     "id": "steak",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "steak",
       "hu": "steak"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥩"
   },
   {
     "id": "lentil",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "lentil",
       "hu": "lencse"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫘"
   },
   {
     "id": "soy-milk",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "soy milk",
       "hu": "szójatej"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥛"
   },
   {
     "id": "capsicum",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "capsicum",
       "hu": "paprika"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "papaya",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "papaya",
       "hu": "papaya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥭"
   },
   {
     "id": "guava",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "guava",
       "hu": "guava"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍈"
   },
   {
     "id": "water",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "water",
       "hu": "víz"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "💧"
   },
   {
     "id": "dog-food",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "dog food",
       "hu": "kutyaeledel"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐶"
   },
   {
     "id": "soya",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "soya",
       "hu": "szója"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫘"
   },
   {
     "id": "kale",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "kale",
       "hu": "kelkáposzta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "thyme",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "thyme",
       "hu": "kakukkfű"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌿"
   },
   {
     "id": "buckwheat",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "buckwheat",
       "hu": "hajdina"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "lamb",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "lamb",
       "hu": "bárány"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥩"
   },
   {
     "id": "vinegar",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "vinegar",
       "hu": "ecet"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "chickpea",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "chickpea",
       "hu": "csicseriborsó"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫘"
   },
   {
     "id": "fig",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "fig",
       "hu": "fig"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍈"
   },
   {
     "id": "parsnip",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "parsnip",
       "hu": "paszternák"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "eggplant",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "eggplant",
       "hu": "padlizsán"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍆"
   },
   {
     "id": "black-beans",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "black beans",
       "hu": "fekete bab"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫘"
   },
   {
     "id": "bean",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "bean",
       "hu": "bab"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫘"
   },
   {
     "id": "ginger",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "ginger",
       "hu": "gyömbér"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫚"
   },
   {
     "id": "beet",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "beet",
       "hu": "cékla"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "artichoke",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "artichoke",
       "hu": "articsóka"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "iceberg-lettuce",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "iceberg lettuce",
       "hu": "jégsaláta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "olive",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "olive",
       "hu": "olívabogyó"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫒"
   },
   {
     "id": "pretzel",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pretzel",
       "hu": "perec"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥨"
   },
   {
     "id": "bacon",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "bacon",
       "hu": "szalonna"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥓"
   },
   {
     "id": "pasta",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pasta",
       "hu": "tészta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍝"
   },
   {
     "id": "spaghetti",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "spaghetti",
       "hu": "spagetti"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍝"
   },
   {
     "id": "grain",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "grain",
       "hu": "gabona"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌾"
   },
   {
     "id": "wheat",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "wheat",
       "hu": "búza"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌾"
   },
   {
     "id": "quinoa",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "quinoa",
       "hu": "quinoa"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "peanut",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "peanut",
       "hu": "mogyoró"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥜"
   },
   {
     "id": "ham",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "ham",
       "hu": "sonka"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍖"
   },
   {
     "id": "turkey",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "turkey",
       "hu": "pulyka"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🦃"
   },
   {
     "id": "cinnamon",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cinnamon",
       "hu": "fahéj"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "✅"
   },
   {
     "id": "beef",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "beef",
       "hu": "marhahús"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥩"
   },
   {
     "id": "pork",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pork",
       "hu": "sertéshús"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥩"
   },
   {
     "id": "chicken",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "chicken",
       "hu": "csirke"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍗"
   },
   {
     "id": "oatmeal",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "oatmeal",
       "hu": "zabpehely"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥣"
   },
   {
     "id": "bread",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "bread",
       "hu": "kenyér"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍞"
   },
   {
     "id": "brown-bread",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "brown bread",
       "hu": "barna kenyér"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍞"
   },
   {
     "id": "sourdough",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "sourdough",
       "hu": "kovász"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍞"
   },
   {
     "id": "white-bread",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "white bread",
       "hu": "fehér kenyér"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍞"
   },
   {
     "id": "whole-grain-bread",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "whole grain bread",
       "hu": "teljes kiőrlésű kenyér"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍞"
   },
   {
     "id": "popcorn",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "popcorn",
       "hu": "pattogatott kukorica"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍿"
   },
   {
     "id": "egg",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "egg",
       "hu": "tojás"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥚"
   },
   {
     "id": "nectarine",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "nectarine",
       "hu": "nektarin"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍑"
   },
   {
     "id": "tangerine",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "tangerine",
       "hu": "mandarin"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍊"
   },
   {
     "id": "plum",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "plum",
       "hu": "szilva"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍑"
   },
   {
     "id": "honeydew",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "honeydew",
       "hu": "mézharmat dinnye"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍈"
   },
   {
     "id": "date",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "date",
       "hu": "datolya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "medjool",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "medjool",
       "hu": "madzshúl"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "kiwi",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "kiwi",
       "hu": "kiwi"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥝"
   },
   {
     "id": "blackberry",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "blackberry",
       "hu": "szeder"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫐"
   },
   {
     "id": "potato",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "potato",
       "hu": "burgonya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥔"
   },
   {
     "id": "zucchini",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "zucchini",
       "hu": "cukkini"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥒"
   },
   {
     "id": "sweet-potato",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "sweet potato",
       "hu": "édesburgonya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍠"
   },
   {
     "id": "pumpkin",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pumpkin",
       "hu": "sütőtök"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🎃"
   },
   {
     "id": "pea",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pea",
       "hu": "borsó"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🟢"
   },
   {
     "id": "lettuce",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "lettuce",
       "hu": "saláta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "cucumber",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cucumber",
       "hu": "uborka"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥒"
   },
   {
     "id": "celery",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "celery",
       "hu": "zeller"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "carrot",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "carrot",
       "hu": "sárgarépa"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥕"
   },
   {
     "id": "brussels-sprouts",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "brussels sprouts",
       "hu": "kelbimbó"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥦"
   },
   {
     "id": "green-bell-pepper",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "green bell pepper",
       "hu": "zöldpaprika"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "orange-bell-pepper",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "orange bell pepper",
       "hu": "narancssárga paprika"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "red-bell-pepper",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "red bell pepper",
       "hu": "piros paprika"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "bell-pepper",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "bell pepper",
       "hu": "paprika"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫑"
   },
   {
     "id": "asparagus",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "asparagus",
       "hu": "spárga"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥦"
   },
   {
     "id": "cabbage",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cabbage",
       "hu": "káposzta"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "cauliflower",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cauliflower",
       "hu": "karfiol"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥦"
   },
   {
     "id": "broccoli",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "broccoli",
       "hu": "brokkoli"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥦"
   },
   {
     "id": "corn",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "corn",
       "hu": "kukorica"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌽"
   },
   {
     "id": "watermelon",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "watermelon",
       "hu": "görögdinnye"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍉"
   },
   {
     "id": "pineapple",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pineapple",
       "hu": "ananász"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍍"
   },
   {
     "id": "pear",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "pear",
       "hu": "körte"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍐"
   },
   {
     "id": "orange",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "orange",
       "hu": "narancs"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍊"
   },
   {
     "id": "mango",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "mango",
       "hu": "mangó"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥭"
   },
   {
     "id": "cranberry",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cranberry",
       "hu": "áfonya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫐"
   },
   {
     "id": "cantaloupe",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "cantaloupe",
       "hu": "sárgadinnye"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍈"
   },
   {
     "id": "blueberry",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "blueberry",
       "hu": "áfonya"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🫐"
   },
   {
     "id": "banana",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "banana",
       "hu": "banán"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍌"
   },
   {
     "id": "apricot",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "apricot",
       "hu": "sárgabarack"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍑"
   },
   {
     "id": "apple",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "apple",
       "hu": "alma"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍎"
   },
   {
     "id": "strawberry",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "strawberry",
       "hu": "eper"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍓"
   },
   {
     "id": "spinach",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "spinach",
       "hu": "spenót"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "baby-spinach",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "baby spinach",
       "hu": "bébispenót"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "canned-spinach",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "canned spinach",
       "hu": "spenótkonzerv"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "spinach-leaves",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "spinach leaves",
       "hu": "spenótlevelek"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥬"
   },
   {
     "id": "green-bean",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "green bean",
       "hu": "zöldbab"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🟩"
   },
   {
     "id": "cooked-shrimp",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cooked shrimp",
       "hu": "főtt garnélarák"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍤"
   },
   {
     "id": "chives",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chives",
       "hu": "metélőhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🌿"
   },
   {
     "id": "candy",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "candy",
       "hu": "cukorka"
     },
-    "descriptionDictIdx": 0,
+    "categoryIdx": 0,
     "icon": "🍬"
   },
   {
     "id": "xylitol",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "xylitol",
       "hu": "xilit"
     },
-    "descriptionDictIdx": 0,
+    "categoryIdx": 0,
     "icon": "⚠️"
   },
   {
     "id": "rice",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "rice",
       "hu": "rizs"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍚"
   },
   {
     "id": "brown-rice",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "brown rice",
       "hu": "barna rizs"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍚"
   },
   {
     "id": "grapefruit",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "grapefruit",
       "hu": "grapefruit"
     },
-    "descriptionDictIdx": 2,
+    "categoryIdx": 2,
     "icon": "🍊"
   },
   {
     "id": "chewing-gum",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chewing gum",
       "hu": "rágógumi"
     },
-    "descriptionDictIdx": 3,
+    "categoryIdx": 3,
     "icon": "🍬"
   },
   {
     "id": "alcohol",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "alcohol",
       "hu": "alkohol"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "absinthe",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "absinthe",
       "hu": "abszint"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "baileys",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "baileys",
       "hu": "baileys"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "beer",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "beer",
       "hu": "sör"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍺"
   },
   {
     "id": "brandy",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "brandy",
       "hu": "brandy"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "champagne",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "champagne",
       "hu": "pezsgő"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍾"
   },
   {
     "id": "cider",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "cider",
       "hu": "almabor"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍺"
   },
   {
     "id": "gin",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "gin",
       "hu": "gin"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍸"
   },
   {
     "id": "jäger-meister",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "jäger meister",
       "hu": "jäger meister"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "liqueur",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "liqueur",
       "hu": "likőr"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "rum",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "rum",
       "hu": "rum"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "snaps",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "snaps",
       "hu": "snaps"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "tequila",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "tequila",
       "hu": "tequila"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "vodka",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "vodka",
       "hu": "vodka"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "whiskey",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "whiskey",
       "hu": "whisky"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🥃"
   },
   {
     "id": "wine",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "wine",
       "hu": "bor"
     },
-    "descriptionDictIdx": 4,
+    "categoryIdx": 4,
     "icon": "🍷"
   },
   {
     "id": "onion",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "onion",
       "hu": "hagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "garlic",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "garlic",
       "hu": "fokhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧄"
   },
   {
     "id": "green-onion",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "green onion",
       "hu": "zöldhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "shallot",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "shallot",
       "hu": "mogyoróhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "spring-onion",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "spring onion",
       "hu": "újhagyma"
     },
-    "descriptionDictIdx": 5,
+    "categoryIdx": 5,
     "icon": "🧅"
   },
   {
     "id": "chocolate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "chocolate",
       "hu": "csokoládé"
     },
-    "descriptionDictIdx": 6,
+    "categoryIdx": 6,
     "icon": "🍫"
   },
   {
     "id": "bittersweet-chocolate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "bittersweet chocolate",
       "hu": "keserédes csokoládé"
     },
-    "descriptionDictIdx": 6,
+    "categoryIdx": 6,
     "icon": "🍫"
   },
   {
     "id": "dark-chocolate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "dark chocolate",
       "hu": "étcsokoládé"
     },
-    "descriptionDictIdx": 6,
+    "categoryIdx": 6,
     "icon": "🍫"
   },
   {
     "id": "milk-chocolate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "milk chocolate",
       "hu": "tejcsokoládé"
     },
-    "descriptionDictIdx": 6,
+    "categoryIdx": 6,
     "icon": "🍫"
   },
   {
     "id": "white-chocolate",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "white chocolate",
       "hu": "fehér csokoládé"
     },
-    "descriptionDictIdx": 6,
+    "categoryIdx": 6,
     "icon": "🍫"
   },
   {
     "id": "ketchup",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "ketchup",
       "hu": "ketchup"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🔴"
   },
   {
     "id": "mayo",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "mayo",
       "hu": "mayo"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "⚪"
   },
   {
     "id": "mayonnaise",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "mayonnaise",
       "hu": "majonéz"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "⚪"
   },
   {
     "id": "peanut-butter",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "peanut butter",
       "hu": "mogyoróvaj"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥜"
   },
   {
     "id": "tomato",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "tomato",
       "hu": "paradicsom"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍅"
   },
   {
     "id": "tomatoe",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "tomatoe",
       "hu": "paradicsom"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍅"
   },
   {
     "id": "fish",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "fish",
       "hu": "hal"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🐟"
   },
   {
     "id": "pizza",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "pizza",
       "hu": "pizza"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🍕"
   },
   {
     "id": "salmon",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "salmon",
       "hu": "lazac"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "anchovies",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "anchovies",
       "hu": "szardella"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "herring",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "herring",
       "hu": "hering"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "mackerel",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "mackerel",
       "hu": "makréla"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "sardines",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "sardines",
       "hu": "szardínia"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "shrimp",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "shrimp",
       "hu": "garnélarák"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍤"
   },
   {
     "id": "smelts",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "smelts",
       "hu": "csempék"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "tuna",
-    "category": "safe",
+    "risk": "safe",
     "name": {
       "en": "tuna",
       "hu": "tonhal"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🐟"
   },
   {
     "id": "prawn",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "prawn",
       "hu": "garnélarák"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🍤"
   },
   {
     "id": "walnut",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "walnut",
       "hu": "dió"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🌰"
   },
   {
     "id": "beef-jerky",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "beef jerky",
       "hu": "marhahús szárított húst"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥓"
   },
   {
     "id": "cereal",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cereal",
       "hu": "gabona"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥣"
   },
   {
     "id": "cottage-cheese",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cottage cheese",
       "hu": "túró"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🧀"
   },
   {
     "id": "cheese",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "cheese",
       "hu": "sajt"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🧀"
   },
   {
     "id": "sausage",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "sausage",
       "hu": "kolbász"
     },
-    "descriptionDictIdx": 16,
+    "categoryIdx": 16,
     "icon": "🌭"
   },
   {
     "id": "yogurt",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "yogurt",
       "hu": "joghurt"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥛"
   },
   {
     "id": "sour-cream",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "sour cream",
       "hu": "tejföl"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🥛"
   },
   {
     "id": "milk",
-    "category": "harmful",
+    "risk": "harmful",
     "name": {
       "en": "milk",
       "hu": "tej"
     },
-    "descriptionDictIdx": 14,
+    "categoryIdx": 14,
     "icon": "🥛"
   },
   {
     "id": "bone",
-    "category": "moderate",
+    "risk": "moderate",
     "name": {
       "en": "bone",
       "hu": "csont"
     },
-    "descriptionDictIdx": -1,
+    "categoryIdx": -1,
     "icon": "🦴"
   }
 ]

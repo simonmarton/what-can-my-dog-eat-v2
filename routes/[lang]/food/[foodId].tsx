@@ -2,7 +2,7 @@ import { getFoodDetails } from '../../../lib/index.ts';
 import {
   capitalize,
   define,
-  getCategoryBgColor,
+  getRiskBgColor,
   translator,
 } from '../../../utils.ts';
 
@@ -15,7 +15,7 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
     return <p>Food not found</p>;
   }
 
-  const bgColor = getCategoryBgColor(food.category);
+  const bgColor = getRiskBgColor(food.risk);
 
   return (
     <section class='relative w-full mt-12 bg-gray-100 rounded-xl px-4 py-8 sm:p-12 shadow-xl'>
@@ -33,23 +33,23 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
           <span
             class={`text-sm sm:text-xl text-white ${bgColor} px-2 py-1 sm:px-4 sm:py-2 rounded`}
           >
-            {t`${food.category}`}
+            {t`${food.risk}`}
           </span>
         </div>
       </div>
 
-      {food.description && (
+      {food.category && (
         <>
           <div class='mt-6 text-lg sm:text-2xl'>
             <span class='font-semibold text-gray-500'>
               {t`foodCategory`}:
             </span>
             <span class='ml-4 sm:ml-8 text-gray-400'>
-              {food.description.title[lang]}
+              {food.category.title[lang]}
             </span>
           </div>
           <p class='mt-4 text-gray-700 leading-relaxed text-sm sm:text-xl'>
-            {food.description.text[lang]}
+            {food.category.text[lang]}
           </p>
         </>
       )}

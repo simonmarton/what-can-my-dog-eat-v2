@@ -1,7 +1,7 @@
 import { createDefine } from 'fresh';
 
 import dict from './dict.ts';
-import type { Category, Lang } from './models.ts';
+import type { Lang, Risk } from './models.ts';
 
 // This specifies the type of "ctx.state" which is used to share
 // data among middlewares, layouts and routes.
@@ -20,8 +20,8 @@ export const translator =
 export const capitalize = ([l, ...str]: string) =>
   l.toUpperCase() + str.join('');
 
-export const getCategoryBgColor = (category: Category) => {
-  switch (category) {
+export const getRiskBgColor = (risk: Risk) => {
+  switch (risk) {
     case 'harmful':
       return 'bg-red-500';
     case 'moderate':
