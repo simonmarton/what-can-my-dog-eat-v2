@@ -23,17 +23,29 @@ export default define.page(function App({ Component, state }) {
             <LangSelector lang={state.lang} />
           </header>
 
-          <section class='w-full flex justify-center mt-4 px-5'>
-            <div class='relative w-full'>
+          <section class='w-full flex justify-center mt-4 md:px-5'>
+            <form
+              class='relative w-full'
+              action={`/${state.lang}/search`}
+              method='GET'
+            >
               <input
-                type='text'
+                type='search'
                 placeholder={t`search`}
-                class='w-full rounded-full border border-gray-300 bg-white py-3 pl-12 pr-4 shadow-sm focus:ring-2 focus:ring-green-600'
+                name='q'
+                required
+                class='w-full rounded-full border border-gray-300 bg-white py-3 pl-12 pr-4 shadow-sm focus:ring-2 focus:ring-sky-700'
               />
               <span class='absolute left-4 top-3.5 text-gray-400 text-lg'>
                 🐾
               </span>
-            </div>
+              <button
+                type='submit'
+                class='absolute right-0 top-0 bottom-0 px-4 rounded-full _bg-green-600 text-white hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-200'
+              >
+                🔍
+              </button>
+            </form>
           </section>
 
           <Component />

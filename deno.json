@@ -16,6 +16,7 @@
   "imports": {
     "@/": "./",
     "fresh": "jsr:@fresh/core@^2.1.4",
+    "fzf": "npm:fzf@^0.5.2",
     "preact": "npm:preact@^10.27.2",
     "@preact/signals": "npm:@preact/signals@^2.3.2",
     "@fresh/plugin-vite": "jsr:@fresh/plugin-vite@^1.0.7",

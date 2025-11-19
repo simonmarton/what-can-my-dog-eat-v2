@@ -54,7 +54,7 @@
     "risk": "harmful",
     "name": {
       "en": "coke zero",
-      "hu": "coke zero"
+      "hu": "zero kóla"
     },
     "categoryIdx": 7,
     "icon": "🥤"
@@ -64,7 +64,7 @@
     "risk": "harmful",
     "name": {
       "en": "coke",
-      "hu": "koksz"
+      "hu": "kóla"
     },
     "categoryIdx": 7,
     "icon": "🥤"

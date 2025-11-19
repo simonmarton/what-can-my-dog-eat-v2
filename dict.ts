@@ -13,6 +13,14 @@ export default {
     en: 'Search for a food..',
     hu: 'Keresés egy ételre..',
   },
+  searchResultsFor: {
+    en: 'Search results for',
+    hu: 'Találatok erre',
+  },
+  noResults: {
+    en: 'No results found',
+    hu: 'Nincs találat',
+  },
   dangerousFoods: {
     en: 'Common dangerous foods for dogs',
     hu: 'Gyakori veszélyes ételek kutyáknak',
@@ -33,8 +41,4 @@ export default {
     en: 'Food Category',
     hu: 'Ételkategória',
   },
-} as {
-  [key: string]: {
-    [key in Lang]: string;
-  };
-};
+} as Record<string, Record<Lang, string>>;

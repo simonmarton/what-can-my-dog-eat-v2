@@ -1,4 +1,6 @@
-import type { Food, FoodCategory, FoodDetails } from '../models.ts';
+import { Fzf } from 'fzf';
+
+import type { Food, FoodCategory, FoodDetails, Lang } from '../models.ts';
 import foodData from '../data/foods.json' with { type: 'json' };
 import categoryData from '../data/categories.json' with { type: 'json' };
 
@@ -32,4 +34,17 @@ export const getFoodDetails = (foodId: string): FoodDetails | null => {
     ...food,
     category: categories[food.categoryIdx],
   };
+};
+
+export const searchFoods = (query: string, lang: Lang): Food[] => {
+  const lowerQuery = query.toLowerCase();
+
+  const fuzzy = new Fzf(foods, {
+    selector: (food) => food.name[lang],
+    casing: 'case-insensitive',
+  });
+
+  const results = fuzzy.find(lowerQuery);
+
+  return results.map((result) => result.item);
 };

@@ -26,12 +26,12 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
         <div class='text-7xl sm:text-9xl mr-6 sm:mr-10 bg-white p-4 rounded-xl shadow-md'>
           {food.icon}
         </div>
-        <div class='flex flex-col justify-end items-baseline gap-6'>
-          <h2 class='text-4xl sm:text-6xl font-bold tracking-wide'>
+        <div class='flex flex-col justify-end items-baseline gap-4 sm:gap-6'>
+          <h2 class='text-3xl sm:text-6xl font-bold tracking-wide'>
             {capitalize(food.name[lang])}
           </h2>
           <span
-            class={`text-sm sm:text-xl text-white ${bgColor} px-2 py-1 sm:px-4 sm:py-2 rounded`}
+            class={`text-lg sm:text-xl text-white ${bgColor} px-2 py-1 sm:px-4 sm:py-2 rounded`}
           >
             {t`${food.risk}`}
           </span>
@@ -48,7 +48,7 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
               {food.category.title[lang]}
             </span>
           </div>
-          <p class='mt-4 text-gray-700 leading-relaxed text-sm sm:text-xl'>
+          <p class='mt-4 text-gray-700 leading-relaxed text-base sm:text-xl'>
             {food.category.text[lang]}
           </p>
         </>

@@ -20,8 +20,8 @@ This will watch the project directory and restart as necessary.
 
 ### TODO
 
-- search, result page
-- fuzzy search
+- remove duplicates from results (eg. hu: kurmpli)
 - all foods should have a category
 - add footer (stats, github, random food)
 - 404 page
+- different emoji style? eg: https://fonts.google.com/noto/specimen/Noto+Emoji
