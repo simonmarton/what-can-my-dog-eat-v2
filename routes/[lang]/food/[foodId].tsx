@@ -44,9 +44,12 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
             <span class='font-semibold text-gray-500'>
               {t`foodCategory`}:
             </span>
-            <span class='ml-4 sm:ml-8 text-gray-400'>
+            <a
+              class='ml-4 sm:ml-8 text-gray-400 hover:underline'
+              href={`/${lang}/category/${food.category.id}`}
+            >
               {food.category.title[lang]}
-            </span>
+            </a>
           </div>
           <p class='mt-4 text-gray-700 leading-relaxed text-base sm:text-xl'>
             {food.category.text[lang]}

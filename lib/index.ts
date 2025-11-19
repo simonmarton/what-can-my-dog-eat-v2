@@ -48,3 +48,20 @@ export const searchFoods = (query: string, lang: Lang): Food[] => {
 
   return results.map((result) => result.item);
 };
+
+export const getFoodsByCategory = (
+  categoryId: string,
+): { category: FoodCategory; foods: Food[] } => {
+  const categoryIdx = categories.findIndex(({ id }) => id === categoryId);
+  const category = categories[categoryIdx];
+
+  if (!category) {
+    throw new Error('Category not found');
+  }
+
+  const categoryFoods = foods.filter((food) =>
+    food.categoryIdx === categoryIdx
+  );
+
+  return { category, foods: categoryFoods };
+};

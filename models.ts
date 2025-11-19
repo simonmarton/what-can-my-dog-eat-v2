@@ -14,6 +14,7 @@ export type Food = {
 };
 
 export type FoodCategory = {
+  id: string;
   title: DictEntry;
   text: DictEntry;
 };
