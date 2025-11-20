@@ -450,16 +450,6 @@
     "icon": "🍋"
   },
   {
-    "id": "garlic-clove",
-    "risk": "harmful",
-    "name": {
-      "en": "garlic clove",
-      "hu": "fokhagymagerezd"
-    },
-    "categoryIdx": 5,
-    "icon": "🧄"
-  },
-  {
     "id": "rhubarb",
     "risk": "harmful",
     "name": {
@@ -2054,16 +2044,6 @@
     "risk": "moderate",
     "name": {
       "en": "tomato",
-      "hu": "paradicsom"
-    },
-    "categoryIdx": -1,
-    "icon": "🍅"
-  },
-  {
-    "id": "tomatoe",
-    "risk": "moderate",
-    "name": {
-      "en": "tomatoe",
       "hu": "paradicsom"
     },
     "categoryIdx": -1,

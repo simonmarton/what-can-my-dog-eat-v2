@@ -14,8 +14,10 @@ export default define.page(({ state: { lang }, url }) => {
   const foods = searchFoods(query, lang);
 
   return (
-    <section class='w-full mt-12'>
-      <h2 class='text-xl font-bold mb-6'>{t`searchResultsFor`} "{query}"</h2>
+    <section class='mt-4 sm:mt-12'>
+      <h2 class='text-xl sm:text-2xl font-bold mb-6'>
+        {t`searchResultsFor`} "{query}"
+      </h2>
 
       {foods.length === 0 && <div class='text-gray-500'>{t`noResults`}</div>}
       <FoodGrid foods={foods} lang={lang} />

@@ -9,13 +9,13 @@ const categories = categoryData as FoodCategory[];
 
 export const getTopHarmfulFoods = (): Food[] => {
   const danger = [
-    'xylitol',
+    // 'xylitol',
     'chocolate',
     'grape',
     'onion',
-    'garlic',
+    // 'garlic',
     'avocado',
-    'tomato',
+    // 'tomato',
     'coffee',
     'alcohol',
   ];

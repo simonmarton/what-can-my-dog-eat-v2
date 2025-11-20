@@ -1,10 +1,6 @@
-@import "tailwindcss";
-.fresh-gradient {
-  background-color: rgb(134, 239, 172);
-  background-image: linear-gradient(
-    to right bottom,
-    rgb(219, 234, 254),
-    rgb(187, 247, 208),
-    rgb(254, 249, 195)
-  );
+@import 'tailwindcss';
+body {
+  --bg-color: --alpha(var(--color-slate-200) / 80%);
+
+  background-image: linear-gradient(var(--bg-color), var(--bg-color)), url('/bg-512.jpg');
 }

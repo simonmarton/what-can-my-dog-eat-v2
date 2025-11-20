@@ -23,10 +23,10 @@ export const capitalize = ([l, ...str]: string) =>
 export const getRiskBgColor = (risk: Risk) => {
   switch (risk) {
     case 'harmful':
-      return 'bg-red-500';
+      return 'bg-red-600';
     case 'moderate':
-      return 'bg-amber-500';
+      return 'bg-yellow-500';
     case 'safe':
-      return 'bg-green-500';
+      return 'bg-green-600';
   }
 };

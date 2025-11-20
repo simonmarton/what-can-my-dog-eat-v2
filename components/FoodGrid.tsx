@@ -10,7 +10,7 @@ export default ({ foods, lang }: FoodGridProps) => (
   <div class='grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-3 gap-6'>
     {foods.map((food) => (
       <a
-        class='relative bg-gray-100 rounded-xl p-6 shadow hover:shadow-md transition'
+        class='relative bg-gray-100 hover:bg-gray-200  rounded-xl p-6 shadow-lg hover:shadow-xl transition'
         href={`/${lang}/food/${food.id}`}
       >
         <div

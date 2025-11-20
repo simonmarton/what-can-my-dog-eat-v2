@@ -8,8 +8,8 @@ export default define.page((props) => {
   const t = translator(lang);
 
   return (
-    <section class='w-full mt-12'>
-      <h2 class='text-2xl font-bold mb-6'>{t`dangerousFoods`}</h2>
+    <section class='mt-4 sm:mt-12'>
+      <h2 class='text-xl sm:text-2xl font-bold mb-6'>{t`dangerousFoods`}</h2>
 
       <FoodGrid foods={harmful} lang={lang} />
     </section>
