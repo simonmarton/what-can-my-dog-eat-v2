@@ -20,10 +20,10 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
   return (
     <section class='relative w-full mt-12 bg-gray-100 rounded-xl px-4 py-8 sm:p-12 shadow-xl'>
       <div
-        class={`absolute top-0 left-0 w-full h-1.5  rounded-t-xl ${bgColor}`}
+        class={`absolute top-0 left-0 w-full h-1.5 rounded-t-xl ${bgColor}`}
       />
       <div class='flex'>
-        <div class='text-7xl sm:text-9xl mr-6 sm:mr-10 bg-white p-4 rounded-xl shadow-md'>
+        <div class='flex items-center aspect-square text-7xl sm:text-9xl mr-6 sm:mr-10 bg-white p-4 rounded-xl shadow-md font-emoji'>
           {food.icon}
         </div>
         <div class='flex flex-col justify-end items-baseline gap-4 sm:gap-6'>
@@ -45,10 +45,10 @@ export default define.page(({ params: { foodId }, state: { lang } }) => {
               {t`foodCategory`}:
             </span>
             <a
-              class='ml-4 sm:ml-8 text-gray-400 hover:underline'
+              class='ml-4 sm:ml-8 text-gray-400 hover:underline '
               href={`/${lang}/category/${food.category.id}`}
             >
-              {food.category.title[lang]}
+              {food.category.title[lang]} <span className='font-emoji'>👉</span>
             </a>
           </div>
           <p class='mt-4 text-gray-700 leading-relaxed text-base sm:text-xl'>

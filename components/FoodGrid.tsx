@@ -19,7 +19,9 @@ export default ({ foods, lang }: FoodGridProps) => (
           } rounded-l-xl`}
         />
         <div class='flex flex-col items-center text-center'>
-          <div class='text-5xl mb-3'>{food.icon}</div>
+          <div class='text-5xl mb-3 font-emoji'>
+            {food.icon}
+          </div>
           <p class='text-lg font-medium'>{food.name[lang]}</p>
         </div>
       </a>

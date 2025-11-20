@@ -37,7 +37,7 @@
       "hu": "mártás"
     },
     "categoryIdx": 16,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "caramel",
@@ -97,7 +97,7 @@
       "hu": "mák"
     },
     "categoryIdx": 13,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "marshmallow",
@@ -137,7 +137,7 @@
       "hu": "élesztős tészta"
     },
     "categoryIdx": 17,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "nutella",
@@ -457,7 +457,7 @@
       "hu": "rebarbara"
     },
     "categoryIdx": 12,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "wildmushroom",
@@ -577,7 +577,7 @@
       "hu": "szerecsendió"
     },
     "categoryIdx": 16,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "yeast",
@@ -587,7 +587,7 @@
       "hu": "élesztő"
     },
     "categoryIdx": 17,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "ice-cream",
@@ -1697,7 +1697,7 @@
       "hu": "xilit"
     },
     "categoryIdx": 0,
-    "icon": "⚠️"
+    "icon": "🚫"
   },
   {
     "id": "rice",
@@ -2174,7 +2174,7 @@
     "risk": "moderate",
     "name": {
       "en": "beef jerky",
-      "hu": "marhahús szárított húst"
+      "hu": "szárított marhahús"
     },
     "categoryIdx": -1,
     "icon": "🥓"
@@ -2184,7 +2184,7 @@
     "risk": "moderate",
     "name": {
       "en": "cereal",
-      "hu": "gabona"
+      "hu": "gabonapehely"
     },
     "categoryIdx": -1,
     "icon": "🥣"

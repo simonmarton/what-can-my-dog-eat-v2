@@ -23,7 +23,7 @@ export default define.page(function App({ Component, state }) {
             <LangSelector lang={state.lang} />
           </div>
         </header>
-        <div class='sm:w-3xl sm:flex flex-col p-5'>
+        <div class='w-full sm:w-3xl sm:flex flex-col p-5'>
           <section class='w-full flex justify-center mt-4 md:px-5'>
             <form
               class='relative w-full'
@@ -37,12 +37,12 @@ export default define.page(function App({ Component, state }) {
                 required
                 class='w-full rounded-full border border-gray-300 bg-white py-3 pl-12 pr-4 shadow-sm focus:ring-2 focus:ring-sky-700'
               />
-              <span class='absolute left-4 top-3.5 text-gray-400 text-lg'>
+              <span class='absolute left-3 top-2.5 text-gray-400 text-2xl font-emoji'>
                 🐾
               </span>
               <button
                 type='submit'
-                class='absolute right-0 top-0 bottom-0 px-4 rounded-full _bg-green-600 text-white hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-200'
+                class='absolute right-0 top-0 bottom-0 px-4 rounded-full font-emoji hover:bg-sky-100 focus:outline-none focus:ring-2 focus:ring-sky-200'
               >
                 🔍
               </button>

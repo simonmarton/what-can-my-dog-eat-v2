@@ -1,6 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap');
 @import 'tailwindcss';
+
+:root {
+  --font-noto-emoji: 'Noto Emoji', sans-serif;
+}
+
 body {
   --bg-color: --alpha(var(--color-slate-200) / 80%);
 
   background-image: linear-gradient(var(--bg-color), var(--bg-color)), url('/bg-512.jpg');
+}
+
+.font-emoji {
+  font-family: var(--font-noto-emoji);
 }
