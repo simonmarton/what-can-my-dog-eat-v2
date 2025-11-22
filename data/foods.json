@@ -150,51 +150,11 @@
     "icon": "🍫"
   },
   {
-    "id": "coca-cola",
-    "risk": "harmful",
-    "name": {
-      "en": "coca cola",
-      "hu": "Coca Cola"
-    },
-    "categoryIdx": 7,
-    "icon": "🥤"
-  },
-  {
     "id": "cola",
     "risk": "harmful",
     "name": {
       "en": "cola",
       "hu": "cola"
-    },
-    "categoryIdx": 7,
-    "icon": "🥤"
-  },
-  {
-    "id": "light-cola",
-    "risk": "harmful",
-    "name": {
-      "en": "light cola",
-      "hu": "light kóla"
-    },
-    "categoryIdx": 7,
-    "icon": "🥤"
-  },
-  {
-    "id": "pepsi",
-    "risk": "harmful",
-    "name": {
-      "en": "pepsi",
-      "hu": "pepsi"
-    },
-    "categoryIdx": 7,
-    "icon": "🥤"
-  },
-  {
-    "id": "sprite",
-    "risk": "harmful",
-    "name": {
-      "en": "sprite",
-      "hu": "sprite"
     },
     "categoryIdx": 7,
     "icon": "🥤"
@@ -250,16 +210,6 @@
     "icon": "🌶️"
   },
   {
-    "id": "chili",
-    "risk": "harmful",
-    "name": {
-      "en": "chili",
-      "hu": "chili"
-    },
-    "categoryIdx": 15,
-    "icon": "🌶️"
-  },
-  {
     "id": "french-fries",
     "risk": "harmful",
     "name": {
@@ -270,51 +220,11 @@
     "icon": "🍟"
   },
   {
-    "id": "chips",
+    "id": "spirit",
     "risk": "harmful",
     "name": {
-      "en": "chips",
-      "hu": "chipek"
-    },
-    "categoryIdx": 9,
-    "icon": "🍟"
-  },
-  {
-    "id": "fries",
-    "risk": "harmful",
-    "name": {
-      "en": "fries",
-      "hu": "sült krumpli"
-    },
-    "categoryIdx": 9,
-    "icon": "🍟"
-  },
-  {
-    "id": "potato-chips",
-    "risk": "harmful",
-    "name": {
-      "en": "potato chips",
-      "hu": "burgonya chips"
-    },
-    "categoryIdx": 9,
-    "icon": "🍟"
-  },
-  {
-    "id": "jagermeister",
-    "risk": "harmful",
-    "name": {
-      "en": "jagermeister",
-      "hu": "jagermeister"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "whisky",
-    "risk": "harmful",
-    "name": {
-      "en": "whisky",
-      "hu": "whisky"
+      "en": "spirit",
+      "hu": "szeszes ital"
     },
     "categoryIdx": 4,
     "icon": "🥃"
@@ -340,16 +250,6 @@
     "icon": "🍪"
   },
   {
-    "id": "apple-cider",
-    "risk": "harmful",
-    "name": {
-      "en": "apple cider",
-      "hu": "almabor"
-    },
-    "categoryIdx": 4,
-    "icon": "🍺"
-  },
-  {
     "id": "pepper",
     "risk": "harmful",
     "name": {
@@ -368,16 +268,6 @@
     },
     "categoryIdx": 5,
     "icon": "🧅"
-  },
-  {
-    "id": "brisket",
-    "risk": "harmful",
-    "name": {
-      "en": "brisket",
-      "hu": "szegyszegy"
-    },
-    "categoryIdx": 16,
-    "icon": "🥩"
   },
   {
     "id": "bbq",
@@ -404,7 +294,7 @@
     "risk": "moderate",
     "name": {
       "en": "pickles",
-      "hu": "savanyúságok"
+      "hu": "kovászos uborka"
     },
     "categoryIdx": -1,
     "icon": "🥒"
@@ -414,7 +304,7 @@
     "risk": "moderate",
     "name": {
       "en": "squash",
-      "hu": "squash"
+      "hu": "tök"
     },
     "categoryIdx": -1,
     "icon": "🎃"
@@ -460,21 +350,11 @@
     "icon": "🚫"
   },
   {
-    "id": "wildmushroom",
+    "id": "wild-mushroom",
     "risk": "harmful",
     "name": {
-      "en": "wildmushroom",
-      "hu": "vadgomba"
-    },
-    "categoryIdx": 10,
-    "icon": "🍄"
-  },
-  {
-    "id": "wild-mushrooms",
-    "risk": "harmful",
-    "name": {
-      "en": "wild mushrooms",
-      "hu": "erdei gombák"
+      "en": "wild mushroom",
+      "hu": "erdei gomba"
     },
     "categoryIdx": 10,
     "icon": "🍄"
@@ -530,31 +410,11 @@
     "icon": "☕"
   },
   {
-    "id": "cappuccino",
-    "risk": "harmful",
-    "name": {
-      "en": "cappuccino",
-      "hu": "cappuccino"
-    },
-    "categoryIdx": 8,
-    "icon": "☕"
-  },
-  {
     "id": "decaf-coffee",
     "risk": "harmful",
     "name": {
       "en": "decaf coffee",
       "hu": "koffeinmentes kávé"
-    },
-    "categoryIdx": 8,
-    "icon": "☕"
-  },
-  {
-    "id": "latte",
-    "risk": "harmful",
-    "name": {
-      "en": "latte",
-      "hu": "latte"
     },
     "categoryIdx": 8,
     "icon": "☕"
@@ -598,16 +458,6 @@
     },
     "categoryIdx": 14,
     "icon": "🍨"
-  },
-  {
-    "id": "garlic-powder",
-    "risk": "harmful",
-    "name": {
-      "en": "garlic powder",
-      "hu": "fokhagymapor"
-    },
-    "categoryIdx": 5,
-    "icon": "🧄"
   },
   {
     "id": "mozzarella",
@@ -780,16 +630,6 @@
     "icon": "🥛"
   },
   {
-    "id": "capsicum",
-    "risk": "safe",
-    "name": {
-      "en": "capsicum",
-      "hu": "paprika"
-    },
-    "categoryIdx": -1,
-    "icon": "🫑"
-  },
-  {
     "id": "papaya",
     "risk": "safe",
     "name": {
@@ -808,26 +648,6 @@
     },
     "categoryIdx": -1,
     "icon": "🍈"
-  },
-  {
-    "id": "water",
-    "risk": "safe",
-    "name": {
-      "en": "water",
-      "hu": "víz"
-    },
-    "categoryIdx": -1,
-    "icon": "💧"
-  },
-  {
-    "id": "dog-food",
-    "risk": "safe",
-    "name": {
-      "en": "dog food",
-      "hu": "kutyaeledel"
-    },
-    "categoryIdx": -1,
-    "icon": "🐶"
   },
   {
     "id": "soya",
@@ -1160,41 +980,11 @@
     "icon": "🍞"
   },
   {
-    "id": "brown-bread",
-    "risk": "safe",
-    "name": {
-      "en": "brown bread",
-      "hu": "barna kenyér"
-    },
-    "categoryIdx": -1,
-    "icon": "🍞"
-  },
-  {
     "id": "sourdough",
     "risk": "safe",
     "name": {
       "en": "sourdough",
       "hu": "kovász"
-    },
-    "categoryIdx": -1,
-    "icon": "🍞"
-  },
-  {
-    "id": "white-bread",
-    "risk": "safe",
-    "name": {
-      "en": "white bread",
-      "hu": "fehér kenyér"
-    },
-    "categoryIdx": -1,
-    "icon": "🍞"
-  },
-  {
-    "id": "whole-grain-bread",
-    "risk": "safe",
-    "name": {
-      "en": "whole grain bread",
-      "hu": "teljes kiőrlésű kenyér"
     },
     "categoryIdx": -1,
     "icon": "🍞"
@@ -1400,46 +1190,6 @@
     "icon": "🥦"
   },
   {
-    "id": "green-bell-pepper",
-    "risk": "safe",
-    "name": {
-      "en": "green bell pepper",
-      "hu": "zöldpaprika"
-    },
-    "categoryIdx": -1,
-    "icon": "🫑"
-  },
-  {
-    "id": "orange-bell-pepper",
-    "risk": "safe",
-    "name": {
-      "en": "orange bell pepper",
-      "hu": "narancssárga paprika"
-    },
-    "categoryIdx": -1,
-    "icon": "🫑"
-  },
-  {
-    "id": "red-bell-pepper",
-    "risk": "safe",
-    "name": {
-      "en": "red bell pepper",
-      "hu": "piros paprika"
-    },
-    "categoryIdx": -1,
-    "icon": "🫑"
-  },
-  {
-    "id": "bell-pepper",
-    "risk": "safe",
-    "name": {
-      "en": "bell pepper",
-      "hu": "paprika"
-    },
-    "categoryIdx": -1,
-    "icon": "🫑"
-  },
-  {
     "id": "asparagus",
     "risk": "safe",
     "name": {
@@ -1544,7 +1294,7 @@
     "risk": "safe",
     "name": {
       "en": "cranberry",
-      "hu": "áfonya"
+      "hu": "vörös áfonya"
     },
     "categoryIdx": -1,
     "icon": "🫐"
@@ -1750,26 +1500,6 @@
     "icon": "🥃"
   },
   {
-    "id": "absinthe",
-    "risk": "harmful",
-    "name": {
-      "en": "absinthe",
-      "hu": "abszint"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "baileys",
-    "risk": "harmful",
-    "name": {
-      "en": "baileys",
-      "hu": "baileys"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
     "id": "beer",
     "risk": "harmful",
     "name": {
@@ -1778,16 +1508,6 @@
     },
     "categoryIdx": 4,
     "icon": "🍺"
-  },
-  {
-    "id": "brandy",
-    "risk": "harmful",
-    "name": {
-      "en": "brandy",
-      "hu": "brandy"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
   },
   {
     "id": "champagne",
@@ -1804,90 +1524,10 @@
     "risk": "harmful",
     "name": {
       "en": "cider",
-      "hu": "almabor"
+      "hu": "cider"
     },
     "categoryIdx": 4,
     "icon": "🍺"
-  },
-  {
-    "id": "gin",
-    "risk": "harmful",
-    "name": {
-      "en": "gin",
-      "hu": "gin"
-    },
-    "categoryIdx": 4,
-    "icon": "🍸"
-  },
-  {
-    "id": "jäger-meister",
-    "risk": "harmful",
-    "name": {
-      "en": "jäger meister",
-      "hu": "jäger meister"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "liqueur",
-    "risk": "harmful",
-    "name": {
-      "en": "liqueur",
-      "hu": "likőr"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "rum",
-    "risk": "harmful",
-    "name": {
-      "en": "rum",
-      "hu": "rum"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "snaps",
-    "risk": "harmful",
-    "name": {
-      "en": "snaps",
-      "hu": "snaps"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "tequila",
-    "risk": "harmful",
-    "name": {
-      "en": "tequila",
-      "hu": "tequila"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "vodka",
-    "risk": "harmful",
-    "name": {
-      "en": "vodka",
-      "hu": "vodka"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
-  },
-  {
-    "id": "whiskey",
-    "risk": "harmful",
-    "name": {
-      "en": "whiskey",
-      "hu": "whisky"
-    },
-    "categoryIdx": 4,
-    "icon": "🥃"
   },
   {
     "id": "wine",
@@ -1960,64 +1600,14 @@
     "icon": "🍫"
   },
   {
-    "id": "bittersweet-chocolate",
-    "risk": "harmful",
-    "name": {
-      "en": "bittersweet chocolate",
-      "hu": "keserédes csokoládé"
-    },
-    "categoryIdx": 6,
-    "icon": "🍫"
-  },
-  {
-    "id": "dark-chocolate",
-    "risk": "harmful",
-    "name": {
-      "en": "dark chocolate",
-      "hu": "étcsokoládé"
-    },
-    "categoryIdx": 6,
-    "icon": "🍫"
-  },
-  {
-    "id": "milk-chocolate",
-    "risk": "harmful",
-    "name": {
-      "en": "milk chocolate",
-      "hu": "tejcsokoládé"
-    },
-    "categoryIdx": 6,
-    "icon": "🍫"
-  },
-  {
-    "id": "white-chocolate",
-    "risk": "harmful",
-    "name": {
-      "en": "white chocolate",
-      "hu": "fehér csokoládé"
-    },
-    "categoryIdx": 6,
-    "icon": "🍫"
-  },
-  {
     "id": "ketchup",
-    "risk": "moderate",
+    "risk": "moderatea",
     "name": {
       "en": "ketchup",
       "hu": "ketchup"
     },
     "categoryIdx": -1,
     "icon": "🔴"
-  },
-  {
-    "id": "mayo",
-    "risk": "moderate",
-    "name": {
-      "en": "mayo",
-      "hu": "mayo"
-    },
-    "categoryIdx": -1,
-    "icon": "⚪"
   },
   {
     "id": "mayonnaise",
@@ -2128,16 +1718,6 @@
     },
     "categoryIdx": -1,
     "icon": "🍤"
-  },
-  {
-    "id": "smelts",
-    "risk": "safe",
-    "name": {
-      "en": "smelts",
-      "hu": "csempék"
-    },
-    "categoryIdx": -1,
-    "icon": "🐟"
   },
   {
     "id": "tuna",

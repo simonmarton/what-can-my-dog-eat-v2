@@ -46,7 +46,9 @@ export const searchFoods = (query: string, lang: Lang): Food[] => {
 
   const results = fuzzy.find(lowerQuery);
 
-  return results.map((result) => result.item);
+  return results.map((result) => result.item).toSorted((a, b) =>
+    a.name[lang].localeCompare(b.name[lang])
+  );
 };
 
 export const getFoodsByCategory = (
