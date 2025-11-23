@@ -1,8 +1,11 @@
 import { define, translator } from '../utils.ts';
 import LangSelector from '../islands/LangSelector.tsx';
+import GithubIcon from '../components/GithubIcon.tsx';
+import { getFoodStats } from '../lib/index.ts';
 
 export default define.page(function App({ Component, state }) {
   const t = translator(state.lang);
+  const { foodCount } = getFoodStats();
 
   return (
     <html>
@@ -11,8 +14,8 @@ export default define.page(function App({ Component, state }) {
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
         <title>{t`title`} V2</title>
       </head>
-      <body class='w-full flex flex-col items-center text-slate-700 bg-size-[65%] sm:bg-size-[400px]'>
-        <header class='sticky top-0 z-10 w-full flex justify-between sm:justify-center py-4 sm:py-6 bg-slate-400/70'>
+      <body class='w-full min-h-screen flex flex-col items-center text-slate-700 bg-size-[65%] sm:bg-size-[400px]'>
+        <header class='sticky top-0 z-10 w-full flex sm:justify-center py-4 sm:py-6 bg-linear-to-t from-slate-400/30 to-slate-400/70'>
           <div class='flex items-center justify-between w-full sm:w-3xl px-5'>
             <a
               href={`/${state.lang}`}
@@ -51,6 +54,29 @@ export default define.page(function App({ Component, state }) {
 
           <Component />
         </div>
+
+        <footer class='flex-1 w-full flex items-end'>
+          <div class='w-full flex justify-center bg-linear-to-b from-slate-400/30 to-slate-400/70 py-3 sm:py-4'>
+            <div class='w-full sm:w-3xl flex justify-between items-center gap-4 sm:gap-10 text-slate-600 text-sm sm:text-base px-5'>
+              <span class=''>
+                {t`foodCount`}: {foodCount}
+              </span>
+
+              <a
+                href='https://github.com/simonmarton/what-can-my-dog-eat-v2'
+                target='_blank'
+                rel='noopener noreferrer'
+                class='hover:underline'
+              >
+                <GithubIcon />
+              </a>
+
+              <a href={`/${state.lang}/random`} class='hover:underline'>
+                {t`randomFood`}
+              </a>
+            </div>
+          </div>
+        </footer>
       </body>
     </html>
   );

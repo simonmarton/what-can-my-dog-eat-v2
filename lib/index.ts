@@ -67,3 +67,12 @@ export const getFoodsByCategory = (
 
   return { category, foods: categoryFoods };
 };
+
+export const getFoodStats = (): { foodCount: number } => ({
+  foodCount: foods.length,
+});
+
+export const getRandomFood = (): Food => {
+  const randomIdx = Math.floor(Math.random() * foods.length);
+  return foods[randomIdx];
+};

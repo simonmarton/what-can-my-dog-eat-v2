@@ -41,4 +41,12 @@ export default {
     en: 'Food Category',
     hu: 'Ételkategória',
   },
+  foodCount: {
+    en: 'Food in DB',
+    hu: 'Ételek száma',
+  },
+  randomFood: {
+    en: 'Random food',
+    hu: 'Véletlenszerű étel',
+  },
 } as Record<string, Record<Lang, string>>;
